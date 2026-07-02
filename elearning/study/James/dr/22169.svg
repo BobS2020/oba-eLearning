@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 2764.37 679.87" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" version="1.1" height="1.24919in" width="5.07921in" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style type="text/css">
+   
+    .fil3 {fill:#F58C58}
+    .fil2 {fill:#E18739}
+    .fil1 {fill:#D98539}
+    .fil0 {fill:#83542B}
+    .fil11 {fill:#D2E28B}
+    .fil10 {fill:#BFCE80}
+    .fil9 {fill:#AFBD77}
+    .fil8 {fill:#7D8959}
+    .fil6 {fill:#C8C5E2}
+    .fil7 {fill:#B29DCA}
+    .fil14 {fill:#91D8F7}
+    .fil5 {fill:#9D98CA}
+    .fil4 {fill:#63607E}
+    .fil13 {fill:#00AFEF}
+    .fil12 {fill:#3E4095}
+   
+  </style></defs><g id="Layer_x0020_1"><metadata id="CorelCorpID_0Corel-Layer"/><g id="_2114815024560"><polygon data-cppathid="10000" points="2092.05,7.56 2764.37,343.9 2092.05,679.87 2092.24,510.94 1814.17,511.32 1814.36,175.73 2092.05,175.35 " class="fil0"/><polygon data-cppathid="10001" points="2145.57,100.69 2630.47,343.33 2145.57,585.59 2146.14,464.08 1878.92,464.08 1879.11,222.01 2145.57,222.01 " class="fil1"/><path data-cppathid="10002" d="M1814.17 511.7l64.95 -47.04 0 -241.88 -64.76 -46.85 -0.19 335.78zm277.88 -336.16l53.52 47.42 0 -121.32 -53.52 -93.71 0 167.6z" class="fil2"/><path data-cppathid="10003" d="M2145.76 101.83l483.95 242.26 134.46 0 -672.13 -336.35 53.71 94.09zm-331.4 74.09l64.76 46.85 266.45 0 -53.33 -47.23 -277.88 0.38z" class="fil3"/></g><g id="_2114814452944"><polygon data-cppathid="10004" points="1457.09,7.56 2129.41,343.91 1457.09,679.87 1457.28,510.94 1179.21,511.32 1179.4,175.73 1457.09,175.35 " class="fil4"/><polygon data-cppathid="10005" points="1510.61,100.69 1995.51,343.33 1510.61,585.6 1511.18,464.09 1243.97,464.09 1244.16,222.01 1510.61,222.01 " class="fil5"/><path data-cppathid="10006" d="M1179.21 511.7l64.95 -47.04 0 -241.88 -64.76 -46.85 -0.19 335.78zm277.88 -336.16l53.52 47.42 0 -121.32 -53.52 -93.71 0 167.6z" class="fil6"/><path data-cppathid="10007" d="M1510.8 101.83l483.95 242.26 134.46 0 -672.13 -336.35 53.71 94.09zm-331.4 74.09l64.76 46.85 266.45 0 -53.33 -47.23 -277.88 0.38z" class="fil7"/></g><g id="_2114814454512"><polygon data-cppathid="10008" points="882.6,0 1554.92,336.35 882.6,672.32 882.79,503.38 604.72,503.76 604.91,168.17 882.6,167.79 " class="fil8"/><polygon data-cppathid="10009" points="936.12,93.13 1421.03,335.78 936.12,578.04 936.69,456.53 669.48,456.53 669.67,214.46 936.12,214.46 " class="fil9"/><path data-cppathid="10010" d="M604.72 504.14l64.95 -47.04 0 -241.88 -64.76 -46.85 -0.19 335.78zm277.88 -336.16l53.52 47.42 0 -121.32 -53.52 -93.71 0 167.6z" class="fil10"/><path data-cppathid="10011" d="M936.31 94.28l483.95 242.26 134.46 0 -672.13 -336.35 53.71 94.09zm-331.4 74.09l64.76 46.85 266.45 0 -53.33 -47.23 -277.88 0.38z" class="fil11"/></g><g id="_2114814456592"><polygon data-cppathid="10012" points="277.88,0 950.2,336.35 277.88,672.32 278.07,503.38 -0,503.76 0.19,168.17 277.88,167.79 " class="fil12"/><polygon data-cppathid="10013" points="331.4,93.13 816.3,335.78 331.4,578.04 331.97,456.53 64.76,456.53 64.95,214.46 331.4,214.46 " class="fil13"/><path data-cppathid="10014" d="M-0 504.14l64.95 -47.04 0 -241.88 -64.76 -46.85 -0.19 335.78zm277.88 -336.16l53.52 47.42 0 -121.32 -53.52 -93.71 0 167.6z" class="fil6"/><path data-cppathid="10015" d="M331.59 94.28l483.95 242.26 134.46 0 -672.13 -336.35 53.71 94.09zm-331.4 74.09l64.76 46.85 266.45 0 -53.33 -47.23 -277.88 0.38z" class="fil14"/></g></g></svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 43.37 30.69" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" version="1.1" height="30px" width="42px" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style type="text/css">
+   
+    .fil2 {fill:#C8C5E2}
+    .fil3 {fill:#91D8F7}
+    .fil1 {fill:#00AFEF}
+    .fil0 {fill:#3E4095}
+   
+  </style></defs><g id="Layer_x0020_1"><metadata id="CorelCorpID_0Corel-Layer"/><g id="_1936927062544"><polygon data-cppathid="10000" points="12.68,0 43.37,15.35 12.68,30.69 12.69,22.98 0,22.99 0.01,7.68 12.68,7.66 " class="fil0"/><polygon data-cppathid="10001" points="15.13,4.25 37.26,15.33 15.13,26.38 15.15,20.84 2.96,20.84 2.96,9.79 15.13,9.79 " class="fil1"/><path data-cppathid="10002" d="M0 23.01l2.96 -2.15 0 -11.04 -2.95 -2.14 -0.01 15.33zm12.68 -15.34l2.45 2.16 0 -5.54 -2.45 -4.27 0 7.65z" class="fil2"/><path data-cppathid="10003" d="M15.13 4.3l22.09 11.06 6.14 0 -30.68 -15.35 2.45 4.29zm-15.12 3.38l2.95 2.14 12.17 0 -2.44 -2.15 -12.68 0.01z" class="fil3"/></g></g></svg>
